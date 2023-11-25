@@ -1,3 +1,6 @@
 name: Martin's Blog, Computer Repair Stories
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+url: "https://martinsblog.github.io" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
